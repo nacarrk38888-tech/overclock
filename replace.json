@@ -1,1 +1,16 @@
-malesefhilekapandı
+{
+  "users": [
+    {
+      "username": "kullanici1",
+      "password": "HASD-SDSD-233D-SGFD-3DFF",
+      "is_admin": false,
+      "serial_number": "PJJBRG21TDWHV7"
+    },
+    {
+      "username": "admin",
+      "password": "admin",
+      "is_admin": true,
+      "serial_number": ""
+    }
+  ]
+}
